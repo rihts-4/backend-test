@@ -1,2 +1,2 @@
-node_modules
-part2-notes-frontend-part2-8
+/node_modules
+.env
